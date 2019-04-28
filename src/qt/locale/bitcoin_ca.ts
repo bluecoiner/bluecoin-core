@@ -799,7 +799,7 @@
     </message>
     <message>
         <source>The entered address "%1" is not a valid Bluecoin address.</source>
-        <translation>L'adreça introduïda «%1» no és una adreça de Litecoin vàlida.</translation>
+        <translation>L'adreça introduïda «%1» no és una adreça de Bluecoin vàlida.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -1663,7 +1663,7 @@
     </message>
     <message>
         <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Bluecoin network.</source>
-        <translation>Un missatge opcional que s'adjuntarà a la sol·licitud de pagament, que es mostrarà quan s'obri la sol·licitud. Nota: El missatge no s'enviarà amb el pagament per la xarxa Litecoin.</translation>
+        <translation>Un missatge opcional que s'adjuntarà a la sol·licitud de pagament, que es mostrarà quan s'obri la sol·licitud. Nota: El missatge no s'enviarà amb el pagament per la xarxa Bluecoin.</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
@@ -2043,7 +2043,7 @@
     </message>
     <message>
         <source>The Bluecoin address to send the payment to</source>
-        <translation>L'adreça Litecoin on enviar el pagament</translation>
+        <translation>L'adreça Bluecoin on enviar el pagament</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -2087,7 +2087,7 @@
     </message>
     <message>
         <source>A message that was attached to the Bluecoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bluecoin network.</source>
-        <translation>Un missatge que s'ha adjuntat al litecoin: URI que s'emmagatzemarà amb la transacció per a la vostra referència. Nota: el missatge no s'enviarà a través de la xarxa Litecoin.</translation>
+        <translation>Un missatge que s'ha adjuntat al litecoin: URI que s'emmagatzemarà amb la transacció per a la vostra referència. Nota: el missatge no s'enviarà a través de la xarxa Bluecoin.</translation>
     </message>
     <message>
         <source>Pay To:</source>
@@ -2124,7 +2124,7 @@
     </message>
     <message>
         <source>The Bluecoin address to sign the message with</source>
-        <translation>L'adreça Litecoin amb què signar el missatge</translation>
+        <translation>L'adreça Bluecoin amb què signar el missatge</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2156,7 +2156,7 @@
     </message>
     <message>
         <source>Sign the message to prove you own this Bluecoin address</source>
-        <translation>Signa el missatge per provar que ets propietari d'aquesta adreça Litecoin</translation>
+        <translation>Signa el missatge per provar que ets propietari d'aquesta adreça Bluecoin</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -2180,7 +2180,7 @@
     </message>
     <message>
         <source>The Bluecoin address the message was signed with</source>
-        <translation>L'adreça Litecoin amb què va ser signat el missatge</translation>
+        <translation>L'adreça Bluecoin amb què va ser signat el missatge</translation>
     </message>
     <message>
         <source>Verify the message to ensure it was signed with the specified Bluecoin address</source>

@@ -1,4 +1,4 @@
-Litecoin Core version 0.13.3 is now available from:
+Bluecoin Core version 0.13.3 is now available from:
 
   <https://download.litecoin.org/litecoin-0.13.3/>
 
@@ -41,7 +41,7 @@ Notable changes
 New Multisig Address Prefix
 ---------------------------
 
-Litecoin Core now supports P2SH addresses beginning with M on mainnet and Q on testnet.
+Bluecoin Core now supports P2SH addresses beginning with M on mainnet and Q on testnet.
 P2SH addresses beginning with 3 on mainnet and m or n on testnet will continue to be valid.
 Old and new addresses can be used interchangeably.
 

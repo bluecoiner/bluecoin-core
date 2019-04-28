@@ -159,7 +159,7 @@
     </message>
     <message>
         <source>Send coins to a Bluecoin address</source>
-        <translation>Stuur munte na 'n Litecoin adres</translation>
+        <translation>Stuur munte na 'n Bluecoin adres</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>

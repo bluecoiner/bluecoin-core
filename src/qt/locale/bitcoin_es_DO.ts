@@ -219,7 +219,7 @@
     </message>
     <message>
         <source>Request payments (generates QR codes and Bluecoin: URIs)</source>
-        <translation>Solicitar pagos (genera codigo QR y URL's de Litecoin)</translation>
+        <translation>Solicitar pagos (genera codigo QR y URL's de Bluecoin)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>

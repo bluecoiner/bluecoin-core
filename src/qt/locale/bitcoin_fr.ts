@@ -487,7 +487,7 @@
     </message>
     <message>
         <source>Show the %1 help message to get a list with possible Bluecoin command-line options</source>
-        <translation>Afficher le message d'aide de %1 pour obtenir la liste des options de ligne de commande Litecoin possibles.</translation>
+        <translation>Afficher le message d'aide de %1 pour obtenir la liste des options de ligne de commande Bluecoin possibles.</translation>
     </message>
     <message>
         <source>%1 client</source>
@@ -1300,7 +1300,7 @@
     </message>
     <message>
         <source>URI cannot be parsed! This can be caused by an invalid Bluecoin address or malformed URI parameters.</source>
-        <translation>L'URI ne peut pas être analysée ! Cela peut être causé par une adresse Litecoin invalide ou par des paramètres d'URI mal formés.</translation>
+        <translation>L'URI ne peut pas être analysée ! Cela peut être causé par une adresse Bluecoin invalide ou par des paramètres d'URI mal formés.</translation>
     </message>
     <message>
         <source>Payment request file handling</source>
@@ -1755,7 +1755,7 @@
     </message>
     <message>
         <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Bluecoin network.</source>
-        <translation>Un message facultatif à joindre à la demande de paiement et qui sera affiché à l'ouverture de celle-ci. Note : le message ne sera pas envoyé avec le paiement par le réseau Litecoin.</translation>
+        <translation>Un message facultatif à joindre à la demande de paiement et qui sera affiché à l'ouverture de celle-ci. Note : le message ne sera pas envoyé avec le paiement par le réseau Bluecoin.</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
@@ -2183,7 +2183,7 @@
     </message>
     <message>
         <source>The Bluecoin address to send the payment to</source>
-        <translation>L'adresse Litecoin à laquelle envoyer le paiement</translation>
+        <translation>L'adresse Bluecoin à laquelle envoyer le paiement</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -2227,7 +2227,7 @@
     </message>
     <message>
         <source>A message that was attached to the Bluecoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bluecoin network.</source>
-        <translation>Un message qui était joint à l'URI litecoin: et qui sera stocké avec la transaction pour référence. Note : ce message ne sera pas envoyé par le réseau Litecoin.</translation>
+        <translation>Un message qui était joint à l'URI litecoin: et qui sera stocké avec la transaction pour référence. Note : ce message ne sera pas envoyé par le réseau Bluecoin.</translation>
     </message>
     <message>
         <source>Pay To:</source>
@@ -2276,7 +2276,7 @@
     </message>
     <message>
         <source>The Bluecoin address to sign the message with</source>
-        <translation>L'adresse Litecoin avec laquelle signer le message</translation>
+        <translation>L'adresse Bluecoin avec laquelle signer le message</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2332,11 +2332,11 @@
     </message>
     <message>
         <source>The Bluecoin address the message was signed with</source>
-        <translation>L'adresse Litecoin avec laquelle le message a été signé</translation>
+        <translation>L'adresse Bluecoin avec laquelle le message a été signé</translation>
     </message>
     <message>
         <source>Verify the message to ensure it was signed with the specified Bluecoin address</source>
-        <translation>Vérifier le message pour s'assurer qu'il a été signé avec l'adresse Litecoin spécifiée</translation>
+        <translation>Vérifier le message pour s'assurer qu'il a été signé avec l'adresse Bluecoin spécifiée</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>

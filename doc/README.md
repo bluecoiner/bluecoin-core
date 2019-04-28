@@ -1,13 +1,13 @@
-Litecoin Core 0.13.2
+Bluecoin Core 0.13.2
 =====================
 
 Setup
 ---------------------
-[Litecoin Core](http://bluecoin-core.org/en/download) is the original Litecoin client and it builds the backbone of the network. However, it downloads and stores the entire history of Litecoin transactions (which is currently several GBs); depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more.
+[Bluecoin Core](http://bluecoin-core.org/en/download) is the original Bluecoin client and it builds the backbone of the network. However, it downloads and stores the entire history of Bluecoin transactions (which is currently several GBs); depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more.
 
 Running
 ---------------------
-The following are some helpful notes on how to run Litecoin on your native platform.
+The following are some helpful notes on how to run Bluecoin on your native platform.
 
 ### Unix
 
@@ -22,18 +22,18 @@ Unpack the files into a directory, and then run litecoin-qt.exe.
 
 ### OS X
 
-Drag Litecoin-Core to your applications folder, and then run Litecoin-Core.
+Drag Bluecoin-Core to your applications folder, and then run Bluecoin-Core.
 
 ### Need Help?
 
-* See the documentation at the [Litecoin Wiki](https://bluecoin-core.info/)
+* See the documentation at the [Bluecoin Wiki](https://bluecoin-core.info/)
 for help and more information.
 * Ask for help on [#litecoin](http://webchat.freenode.net?channels=litecoin) on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net?channels=litecoin).
-* Ask for help on the [LitecoinTalk](https://bluecoin-coretalk.io/) forums.
+* Ask for help on the [BluecoinTalk](https://bluecoin-coretalk.io/) forums.
 
 Building
 ---------------------
-The following are developer notes on how to build Litecoin on your native platform. They are not complete guides, but include notes on the necessary libraries, compile flags, etc.
+The following are developer notes on how to build Bluecoin on your native platform. They are not complete guides, but include notes on the necessary libraries, compile flags, etc.
 
 - [OS X Build Notes](build-osx.md)
 - [Unix Build Notes](build-unix.md)
@@ -43,7 +43,7 @@ The following are developer notes on how to build Litecoin on your native platfo
 
 Development
 ---------------------
-The Litecoin repo's [root README](/README.md) contains relevant information on the development process and automated testing.
+The Bluecoin repo's [root README](/README.md) contains relevant information on the development process and automated testing.
 
 - [Developer Notes](developer-notes.md)
 - [Multiwallet Qt Development](multiwallet-qt.md)
@@ -60,7 +60,7 @@ The Litecoin repo's [root README](/README.md) contains relevant information on t
 - [Benchmarking](benchmarking.md)
 
 ### Resources
-* Discuss on the [LitecoinTalk](https://bluecoin-coretalk.io/) forums.
+* Discuss on the [BluecoinTalk](https://bluecoin-coretalk.io/) forums.
 * Discuss project-specific development on #litecoin on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net/?channels=litecoin).
 
 ### Miscellaneous

@@ -255,7 +255,7 @@
     </message>
     <message numerus="yes">
         <source>%n active connection(s) to Bluecoin network</source>
-        <translation><numerusform>%n активне з'єднання з мережею Litecoin</numerusform><numerusform>%n активні з'єднання з мережею Bluecoin</numerusform><numerusform>%n активних з'єднань з мережею Litecoin</numerusform></translation>
+        <translation><numerusform>%n активне з'єднання з мережею Bluecoin</numerusform><numerusform>%n активні з'єднання з мережею Bluecoin</numerusform><numerusform>%n активних з'єднань з мережею Bluecoin</numerusform></translation>
     </message>
     <message>
         <source>No block source available...</source>
@@ -1231,7 +1231,7 @@
     </message>
     <message>
         <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Bluecoin network.</source>
-        <translation>Необов'язкове повідомлення на додаток до запиту платежу, котре буде показане під час відкриття запиту. Примітка: Це повідомлення не буде відправлено з платежем через мережу Litecoin.</translation>
+        <translation>Необов'язкове повідомлення на додаток до запиту платежу, котре буде показане під час відкриття запиту. Примітка: Це повідомлення не буде відправлено з платежем через мережу Bluecoin.</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>

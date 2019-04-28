@@ -207,7 +207,7 @@
     </message>
     <message>
         <source>Verify messages to ensure they were signed with specified Bluecoin addresses</source>
-        <translation>Υπογράψτε ένα μήνυμα για ν' αποδείξετε πως ανήκει μια συγκεκριμένη διεύθυνση Litecoin</translation>
+        <translation>Υπογράψτε ένα μήνυμα για ν' αποδείξετε πως ανήκει μια συγκεκριμένη διεύθυνση Bluecoin</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -1329,7 +1329,7 @@
     </message>
     <message>
         <source>Sign the message to prove you own this Bluecoin address</source>
-        <translation>Υπογράψτε ένα μήνυμα για ν' αποδείξετε πως σας ανήκει μια συγκεκριμένη διεύθυνση Litecoin</translation>
+        <translation>Υπογράψτε ένα μήνυμα για ν' αποδείξετε πως σας ανήκει μια συγκεκριμένη διεύθυνση Bluecoin</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -1353,7 +1353,7 @@
     </message>
     <message>
         <source>Verify the message to ensure it was signed with the specified Bluecoin address</source>
-        <translation>Υπογράψτε ένα μήνυμα για ν' αποδείξετε πως υπογραφθηκε απο μια συγκεκριμένη διεύθυνση Litecoin</translation>
+        <translation>Υπογράψτε ένα μήνυμα για ν' αποδείξετε πως υπογραφθηκε απο μια συγκεκριμένη διεύθυνση Bluecoin</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>

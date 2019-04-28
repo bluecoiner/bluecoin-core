@@ -1603,7 +1603,7 @@
     </message>
     <message>
         <source>A message that was attached to the Bluecoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bluecoin network.</source>
-        <translation>Bluecoin: URI'siyle ilişkili ve bilginiz için muameleyle saklanacak bir mesaj. Not: Bu mesaj Litecoin şebekesi üzerinden gönderilmeyecektir.</translation>
+        <translation>Bluecoin: URI'siyle ilişkili ve bilginiz için muameleyle saklanacak bir mesaj. Not: Bu mesaj Bluecoin şebekesi üzerinden gönderilmeyecektir.</translation>
     </message>
     <message>
         <source>Pay To:</source>
